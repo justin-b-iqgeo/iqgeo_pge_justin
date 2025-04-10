@@ -1,11 +1,11 @@
 {
-    "name": "my_project",
+    "name": "IQGeo_PGE_Justin",
     // Dev Container display name
-    "display_name": "Project for customer MyProject",
+    "display_name": "IQGeo PGE Justin",
     // Prefix to use in container names and Docker compose
-    "prefix": "myproj",
+    "prefix": "pge_justin",
     // The name of the database to use. (Should be different from "iqgeo" so myw_db can drop it - uses iqgeo user for connection)
-    "db_name": "myproj",
+    "db_name": "iqgeo",
     "platform": {
         // The version of the IQGeo platform to use. Options are 7.0, and above
         "version": "7.2",
